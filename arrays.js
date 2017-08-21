@@ -25,13 +25,13 @@ function destructivelyRemoveElementFromBeginningOfArray(array) {
 }
 
 function removeElementFromBeginningOfArray(array) {
-  
+
 }
 
 function destructivelyRemoveElementFromEndOfArray(array) {
-  
+
 }
 
 function removeElementFromEndOfArray(array) {
-  
+
 }
